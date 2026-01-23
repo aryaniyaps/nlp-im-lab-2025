@@ -1,4 +1,4 @@
-# Natural Language and Image Processing Lab exercises
+# Natural Language and Image Processing Lab Exercises
 Author: Aryan Iyappan
 Roll number: 2023115021
 
