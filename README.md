@@ -12,4 +12,4 @@ Roll number: 2023115021
 | [04-pos-ner-09-01-2026](./04-pos-ner-09-01-2026)                         | Parts of Speech (PoS) tagging and Named Entity Recognition (NER)        |
 | [05-chatbot-09-01-2026](./05-chatbot-09-01-2026)                         | Chatbot implementation- using hardcoded and SNIPS dataset               |
 | [06-text-classification-23-01-2026](./06-text-classification-23-01-2026) | Basic and probabilistic text classification using scikit-learn          |
-| (07-machine-translation-30-01-2026)(./07-machine-translation-30-01-2026) | Text translation using googletrans, deep-translator and other libraries |
+| [07-machine-translation-30-01-2026](./07-machine-translation-30-01-2026) | Text translation using googletrans, deep-translator and other libraries |
